@@ -5,9 +5,9 @@ To run this project do the following:
 1. create a parent folder (name does not matter)
 2. download all content into this folder
 3. create three subfolders inside the parent folder: 
-    output
-    data_raw
-    data_tidy
+    "output",
+    "data_raw", and
+    "data_tidy"
 4. move all csv.files into the data_raw folder
 5. open the R file and make sure that the working directory/here/project file is located inside the parent folder
 6. follow the instructions in the R script and run the code

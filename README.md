@@ -9,7 +9,7 @@ This projected was created for a term paper at University of Duisburg-Essen to e
 To run this project do the following:
 
 1. create a parent folder (name does not matter)
-2. download all content into this folder
+2. download all content into this folder (click on Code -> Download as Zip)
 3. create three subfolders inside the parent folder: 
     "output",
     "data_raw", and
